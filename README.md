@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Bachaler's of Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Mail me on basudev.scm@gmail.com
 
 <!---
 Basudev2806/Basudev2806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
