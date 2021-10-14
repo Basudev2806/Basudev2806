@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basudev kar
-- 👀 I’m interested in App Development
+- 👀 I’m interested in App Development, Web Development, Artificial Intelligence
 - 🌱 I’m currently learning Bachaler's of Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail me on basudev.scm@gmail.com
