@@ -9,7 +9,7 @@
 - 🛠️ Enthusiast for a variety of projects.
 - 🤝 50+ contributions on Telegram, supporting fellow developers.
 - 💬 50+ answers on Stack Overflow, helping the programming community with their technical questions.
-- 🌐 Visit my Website <a href="https://techbanda.com/blog/" style="text-decoration: none;"> Techbanda Blogs</a>, sharing Android-related knowledge.
+- 🌐 Visit my Website [Techbanda Blogs](https://techbanda.com/blog/), sharing Android-related knowledge.
 
 ## Projects I've worked on:
 1. **Custom LCD Pattern Generator (Android App):**
