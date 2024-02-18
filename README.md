@@ -31,7 +31,8 @@ Welcome to <strong>Techbanda</strong>, your go-to website for learning Android p
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Basudev2806&theme=discord&column=8&margin-w=5&margin-h=5))](https://github.com/Basudev2806/
+[![trophy](https://github-profile-trophy.vercel.app/?username=Basudev2806&theme=discord&column=8&margin-w=5&margin-h=5)](https://github.com/Basudev2806/)
+
 <hr>
 
 ### GitHub Stats ❤️ 
