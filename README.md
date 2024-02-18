@@ -11,10 +11,6 @@
 - 💬 50+ answers on Stack Overflow, helping the programming community with their technical questions.
 - 🌐 Visit my Website [Techbanda Blogs](https://techbanda.com/blog/), sharing Android-related knowledge.
 
-## Projects I've worked on:
-1. **Custom LCD Pattern Generator (Android App):**
-   An Android application that generates Arduino C code for a given pattern. This app is available on the Play Store and has garnered over 1,000 downloads.
-
 <hr>
 Welcome to <strong>Techbanda</strong>, your go-to website for learning Android programming! Whether you're a beginner or an experienced developer, we've got you covered with the latest tutorials, tips, and tricks for building Android apps using Kotlin and Java.
 <hr>
@@ -35,7 +31,7 @@ Welcome to <strong>Techbanda</strong>, your go-to website for learning Android p
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Basudev2806&theme=discord&column=8&margin-w=5&margin-h=5))](https://github.com/Basudev2806/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Basudev2806&theme=discord&column=8&margin-w=5&margin-h=5))](https://github.com/Basudev2806/)]
 <hr>
 
 ### GitHub Stats ❤️ 
